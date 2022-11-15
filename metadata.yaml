@@ -1,0 +1,37 @@
+_repo: Muckle-John_69196
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stewart, Allan
+    birthdate: 1865
+    deathdate: 1951
+    gutenberg_agent_id: '33328'
+    url: http://www.gutenberg.org/2009/agents/33328
+    wikipedia: https://en.wikipedia.org/wiki/Allan_Stewart_(artist)
+creator:
+  author:
+    agent_name: Watson, Frederick
+    birthdate: 1885
+    deathdate: 1935
+    gutenberg_agent_id: '49675'
+    url: http://www.gutenberg.org/2009/agents/49675
+description: ''
+gutenberg_issued: '2022-10-21'
+identifiers:
+  gutenberg: '69196'
+  lccn: '18015721'
+language: en
+pgterms:marc905: 20221011093427watson
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: 'United Kingdom: Adam and Charles Black,1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jacobite Rebellion, 1745-1746 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Muckle John
+url: http://www.gutenberg.org/ebooks/69196
